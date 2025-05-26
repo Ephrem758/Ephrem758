@@ -7,10 +7,8 @@
   
 <div id="badges">
   <br />
-<a href="mailto:ephremalemayehu2019@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-</a>
-<a href="linkedin.com/in/ephrem-alemayehu-635a72230/"> 
+
+<a href="https://www.linkedin.com/in/ephrem-alemayehu-635a72230/"> 
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   <a href="https://leetcode.com/u/Ephrem_alemayehu/"> 
@@ -21,7 +19,7 @@
 
 ---
 ### 🧑 About Me
-<p>✨ Full-Stack Software Engineer with deep expertise in building scalable, data-driven web applications from end to end. As Co-Founder and Lead Developer of Cowsville, I architected and shipped a precision dairy-management platform using Django, Django REST Framework and React.js—integrating real-time WebSocket alerts, SMS notifications, and ODK-based mobile data collection to deliver actionable farm insights. I’ve designed and maintained cloud infrastructure (AWS/GCP), automated CI/CD pipelines, and optimized relational and NoSQL databases for high throughput. While my background includes AI and robotics research developing graph-planning algorithms, digital-twin simulations, and presenting at the AURA symposium, my true passion lies in translating complex requirements into intuitive, high-performance web experiences and reliable backend services. My technical expertise includes <b><i>Django, React.js, Python, JavaScript, HTML, Tailwind CSS, Web Scraping, Next.js, Machine Learning, Robot Operating System, Data Structure, Algorithm, CSS, Flutter, Spring, MySQL, FastAPI, and software development project management techniques.</i></b></p> 💻 I am a Full Stack Developer with extensive experience in building scalable applications. <br /> 🏖 In my free time, I enjoy reading, playing video games, and solving challenging problems. <br />
+<p>✨ Full-Stack Software Engineer with deep expertise in building scalable, data-driven web applications from end to end. As Co-Founder and Lead Developer of Cowsville, I architected and shipped a precision dairy-management platform using Django, Django REST Framework and React.js—integrating real-time WebSocket alerts, SMS notifications, and ODK-based mobile data collection to deliver actionable farm insights. I’ve designed and maintained cloud infrastructure (AWS/GCP), automated CI/CD pipelines, and optimized relational and NoSQL databases for high throughput. While my background includes AI and robotics research developing graph-planning algorithms, digital-twin simulations, and presenting at the AURA symposium, my true passion lies in translating complex requirements into intuitive, high-performance web experiences and reliable backend services. My technical expertise includes <b><i>Django, React.js, Python, JavaScript, HTML, Tailwind CSS, Web Scraping, Next.js, Machine Learning, Robot Operating System, Data Structure, Algorithm, CSS, Flutter, Spring, MySQL, FastAPI, and software development project management techniques.</i></b></p> 💻 My Portfolio: <a href="https://ephrem-portfolio.onrender.com/">Portfolio</a> <br /> 💻 I am a Full Stack Developer with extensive experience in building scalable applications. <br /> 🏖 In my free time, I enjoy reading, playing video games, and solving challenging problems. <br />
 
 ---
 
